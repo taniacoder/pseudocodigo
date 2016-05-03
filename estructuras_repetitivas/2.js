@@ -1,4 +1,3 @@
-/*probar en prueba.html*/
 
 function suma(){
   var suma=0;

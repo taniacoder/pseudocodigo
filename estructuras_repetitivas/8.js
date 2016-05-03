@@ -1,4 +1,5 @@
-/*probar con prueba.html*/
+
+
 function potencia(){
 	var potencia=1;
 	var num=prompt('Introduzca la base:');

@@ -1,4 +1,4 @@
-//Escribe aquí tú código
+
 var n = parseInt(prompt("¿Cuántos números fibonacci quieres ver? "));
 var na=1;
 var naa=-1;

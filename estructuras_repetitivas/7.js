@@ -1,4 +1,5 @@
-/*probar con prueba.html*/
+
+
 function tabla(){
 	var num=prompt('Introduzca un número:');
 	var producto=prompt('Introduzca el número de potencia al que quiere llegar:');

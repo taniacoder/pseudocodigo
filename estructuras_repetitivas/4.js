@@ -1,4 +1,4 @@
-/*probar en prueba.html*/
+
 
 function promedio(){
               var suma=0;

@@ -1,4 +1,4 @@
-/*probar en prueba.html*/
+
 function suma(){
   var suma=0;
   var i=0;

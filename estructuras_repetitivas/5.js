@@ -1,4 +1,4 @@
-/*probar en consola*/
+
 function pares(){
 	i=2;
 	while(i<100){

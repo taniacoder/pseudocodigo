@@ -1,4 +1,4 @@
-//Escribe aquí tú código
+
 var mes = ['Enero', 'Febrero','Marzo', 'Abril', 'Mayo','Junio','Julio','Agosto','Setiembre','Octubre','Noviembre','Diciembre'];
 var meslength = mes.length;
 var c = -1;

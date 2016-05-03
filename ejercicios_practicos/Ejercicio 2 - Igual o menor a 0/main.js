@@ -1,4 +1,4 @@
-//Escribe aquí tú código
+
 var n = parseInt(prompt("Ingrese numero"));
 var menores = 0;
 var mayores = 0;

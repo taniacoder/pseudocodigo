@@ -1,4 +1,4 @@
-//Escribe aquí tú código
+
 var kilometro;
 var d1 = 70;
 var d2 = 150;

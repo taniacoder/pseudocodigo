@@ -1,4 +1,4 @@
-//Escribe aquí tú código
+
 var n=parseFloat(prompt("Escriba numero de personas :"));
 var c = 1;
 var suma = 0;

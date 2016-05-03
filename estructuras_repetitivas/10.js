@@ -1,4 +1,3 @@
-/*probar con prueba.html*/
 
 function cuboycuarta(){
 	for(var i=0; i<10;i++){
